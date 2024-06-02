@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "315D7BB1-724B-416D-8928-9B5219F89576"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "changePassword(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - 1107f94ac2e2b111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - d522ec54d3e4839d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - ccdcbb11c19f3537"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - 16411bcd5fc6f724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - 1107f94ac2e2b136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - d522ec54d3e483ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - ccdcbb11c19f3510"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "6512AD2E-D806-4287-BDE2-CBEF9FD05C01 - 16411bcd5fc6f703"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Firebase_Demo_All_in_one_.SettingsViewModel.changePassword(for: Firebase_Demo_All_in_one_.AuthResultInfo) async throws -&gt; ()"
+                  moduleName = "Firebase-Demo(All-in-one)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasu/My%20Drive/Practices/Firebase-Demo_All-in-one/Firebase-Demo(All-in-one)/ViewModels/Authentication/SettingsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
